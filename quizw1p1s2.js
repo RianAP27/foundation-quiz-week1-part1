@@ -33,7 +33,7 @@ switch(bulan) {
     case 10: 
         console.log(`${hari} Oktober ${tahun}`);
     break;
-    case 1: 
+    case 11: 
         console.log(`${hari} November ${tahun}`);
     break;
     case 12: 
