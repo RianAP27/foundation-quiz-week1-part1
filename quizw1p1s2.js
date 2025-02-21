@@ -1,5 +1,5 @@
 let hari = 2;
-let bulan = 122;
+let bulan = 2;
 let tahun = 2000;
 
 switch(bulan) {
@@ -40,6 +40,6 @@ switch(bulan) {
         console.log(`${hari} Desember ${tahun}`);
     break;
     default :
-        console.log("Bulan tidak valid");
+        console.log("Bulan kosong tiidak valid");
     
 }
